@@ -1,2 +1,2 @@
 # Trial-1
-Trial and walk trough
+Trial and walk through
